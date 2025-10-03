@@ -15,6 +15,7 @@ public class HighScoreWins {
 
         Scanner scanner = new Scanner(System.in);
         //makes a scanner named scanner that reads user input
+        // String Scores
 
         System.out.print("Please enter a game score: ");
         userInput = scanner.nextLine().trim();
